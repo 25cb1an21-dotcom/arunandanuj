@@ -1,0 +1,12 @@
+backend/.env
+.env
+uploads/
+data/
+*.sqlite3*
+__pycache__/
+backend/__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
